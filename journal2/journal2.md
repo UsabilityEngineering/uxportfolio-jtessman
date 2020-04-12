@@ -15,4 +15,10 @@ The usefulness of this app skyrocketed with the COVID-19 pandemic. More people a
 **-error tolerant:** The consequences of the technology not working when it is supposed to. A space station must have next to no error tolerance, while a bookshelf breaking has pretty high error tolerance. 
 
 
-![Alt text](/journal2/screencap.png)
+![Alt text](/journal2/screencap.PNG)
+
+
+![Alt text](/journal2/myID.PNG)
+
+
+![Alt text](/journal2/computeraudio.PNG)
