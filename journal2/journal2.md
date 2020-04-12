@@ -15,3 +15,5 @@ The usefulness of this app skyrocketed with the COVID-19 pandemic. More people a
 **-error tolerant:** The consequences of the technology not working when it is supposed to. A space station must have next to no error tolerance, while a bookshelf breaking has pretty high error tolerance. 
 
 
+![GitHub Logo](screencap.png)
+Format: ![Alt Text](url)
