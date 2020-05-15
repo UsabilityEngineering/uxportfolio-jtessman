@@ -8,7 +8,7 @@ Hello! My name is Jacob "Kobi" Tessman. I am currently doing my fifth year at ch
 ## UX Team Project
 
 
-[Yak Again](https://github.com/UsabilityEngineering/Yak-again)
+[Yak Again](https://usabilityengineering.github.io/Yak-again/)
 
 
 ## UX Journal
