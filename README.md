@@ -7,6 +7,8 @@ Hello! My name is Jacob "Kobi" Tessman. I am currently doing my fifth year at ch
 
 ## UX Team Project
 
+My Usability project is called Yak-again, and I did it with my classmate Bret MacNamee:
+
 
 [Yak Again](https://usabilityengineering.github.io/Yak-again/)
 
